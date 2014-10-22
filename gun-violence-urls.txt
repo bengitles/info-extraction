@@ -1,4 +1,4 @@
-url	State	City
+url	city	state	title	date	text	enitities	keywords
 www.decaturdaily.com/news/local/article_5cf620b8-0a9e-11e3-921c-10604b9ffe60.html	AL	Decatur
 www.decaturdaily.com/news/local/article_f9a5e330-2015-11e3-bfd5-001a4bcf6878.html	AL	Decatur
 www.decaturdaily.com/news/local/article_508ff82a-11f2-11e3-9af9-0019bb30f31a.html?mode=jqm	AL	Decatur
